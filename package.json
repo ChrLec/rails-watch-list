@@ -15,6 +15,7 @@
   "private": true,
   "license": "MIT",
   "devDependencies": {
+    "webpack": "^5.65.0",
     "webpack-dev-server": "^4.7.2"
   }
 }
